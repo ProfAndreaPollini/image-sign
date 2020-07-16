@@ -1,0 +1,11 @@
+{
+  "name": "img-signature",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ProfAndreaPollini/image-sign.git",
+  "author": "Andrea Pollini <prof.andrea.pollini@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "konva": "^7.0.3"
+  }
+}
